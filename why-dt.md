@@ -9,3 +9,8 @@ Jeffrey Immelt quote in 2013 (General Eletric CEO):
 Information Technology need to be at the center of the strategy and operations of the companies/business.
 
 This requires a transformation of the IT functions.
+
+As the image bellow ...
+![alt](https://github.com/adeilsonrbrito/dt/blob/master/images/new-it-function.png "Title")
+
+
