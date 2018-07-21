@@ -10,7 +10,10 @@ Information Technology need to be at the center of the strategy and operations o
 
 This requires a transformation of the IT functions.
 
-As the image bellow ...
-![alt](https://github.com/adeilsonrbrito/dt/blob/master/images/new-it-function.png "Title")
+As the image bellow, IT organization was peripheral to business strategy and now it is central.
+![alt](https://github.com/adeilsonrbrito/dt/blob/master/images/new-it-function.png "old vs new IT function")
 
+It is important understand the **new role of the IT** for creating competitive value and to promote transformations.
+
+IT-enabled business model and capabilities.
 
